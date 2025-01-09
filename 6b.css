@@ -1,0 +1,145 @@
+.uber{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 138px;
+    cursor: pointer;
+    transition: opacity 1s,color 1s;
+}
+.uber:hover{
+    opacity: 0.7;
+}
+.uber:active{
+    opacity: 0.5;
+}
+.amazon{
+    background-color:rgb(248, 211, 28) ;
+    color: black;
+    height: 36px;
+    width: 198px;
+    border: none;
+    font-weight: dark;
+    font-size: medium;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+.amazon:hover{
+    background-color:rgb(255, 164, 28);
+}
+.github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 36px;
+    width: 108px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: box-shadow 0.5s;
+}
+.github:hover{
+    box-shadow: 0px 5px 8px rgba(0 , 0, 0, 0.2);
+}
+.boot{
+    background-color: rgb(121, 82, 178);
+    color: white;
+    height: 36px;
+    width: 112px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.boot:hover{
+    background-color: rgb(101, 61, 161);
+}
+
+.strap{
+    background-color:white;
+    color: rgb(108, 117, 125);
+    height: 36px;
+    width: 100px;
+    border-radius: 4px;
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    margin-left: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s , color 0.2s;
+}
+.strap:hover{
+    background-color:rgb(108, 117, 125);
+    color: white;
+}
+
+.linked{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
+    height: 36px;
+    width: 215px;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    margin-right: 9px;
+    transition:background-color 0.2s;
+}
+.linked:hover{
+    background-color: rgb(3, 84, 165);
+}
+.in{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    height: 36px;
+    width: 75px;
+    font-weight: bold;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:rgb(10, 102, 194) ;
+    border-width: 1px;
+    cursor: pointer;
+    transition: background-color 0.2s , border width 0.2s;
+}
+.in:hover{
+    background-color: rgb(211, 232, 253);
+    border-width: 2px;
+}
+.amaz{
+    background-color:rgb(255, 164, 28) ;
+    color: black;
+    height: 36px;
+    width: 198px;
+    border: none;
+    font-weight: dark;
+    font-size: medium;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.2s, opacity 0.2s;
+}
+.amaz:hover{
+    background-color:rgb(250,137,0) ;  
+}
+.amaz:acitve{
+    opacity: 0.6;
+}
+a{
+  color: rgb(0,113,133);  
+}
+a:hover{
+color: rgb(217, 142, 3);
+}
+.nike{
+color: black ;
+font-size: larger;
+font-weight: bold;
+}
+.stock{
+    color: rgb(0, 118, 0);
+    font-size: medium;
+    font-weight: bold;
+}
