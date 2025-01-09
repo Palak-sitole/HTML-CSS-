@@ -1,0 +1,35 @@
+input{
+    margin-bottom: 0px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 16px;
+    margin-bottom: 12px
+}
+.first{
+    width: 132px;
+}
+.last{
+    width: 132px;
+}
+.email{
+    display: block;
+    width:300px;
+}
+button{
+    display: block;
+    color: white;
+    background-color: rgb(47, 127, 231);
+    border:none;
+    border-radius: 8px;
+    width:335px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: bold;
+    font-size: 18px;
+}
